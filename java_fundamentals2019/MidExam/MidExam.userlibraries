@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="calculussrc-1.1.0">
+    <archive path="C:/Users/Gabi/IdeaProjects/ext_lib/jcm1.0-basic.jar" />
+    <archive path="C:/Users/Gabi/IdeaProjects/ext_lib/jcm1.0-config.jar" />
+  </library>
+</eclipse-userlibraries>
+
